@@ -1,7 +1,9 @@
+# Ben Woodfield
+# This one was cool - again another one I wrote from doing a tutorial online
+
 import turtle 
 
 ninja = turtle.Turtle()
-
 ninja.speed(10)
 
 for i in range(180):
@@ -19,3 +21,4 @@ for i in range(180):
     ninja.right(2)
     
 turtle.done()
+# Turtle Done!
