@@ -1,7 +1,7 @@
 # Ben Woodfield
 # A Tree drawing using Python
-# I found this on Stack Exchange
-
+# I found this on Stack Exchange - I wanted something Christmasy for my Python Community page
+# Uses characters to draw a little tree!
 
 import sys
 w = sys.stdout.write
