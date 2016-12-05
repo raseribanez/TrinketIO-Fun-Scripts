@@ -1,3 +1,7 @@
+# Ben Woodfield
+# A lotof these Turtle Graphics were done using a tutorial so I can't say they are
+# my own work - I did rewrite them but I didn't design them originally
+
 import turtle 
 
 seurat = turtle.Turtle()
