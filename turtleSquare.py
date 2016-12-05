@@ -1,3 +1,6 @@
+# Ben Woodfield
+# Not anyhtingmajor I know...but this one is my own!
+
 import turtle
 
 def drawSquare(t, sz):
