@@ -1,3 +1,7 @@
+# Ben Woodfield
+# I was doing an online tutorial and wrote some of these little graphics scripts
+# while following the lessons
+
 import turtle 
 
 painter = turtle.Turtle()
